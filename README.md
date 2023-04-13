@@ -22,12 +22,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](/images/desktop-view.png)
+![](/images/mobile-view.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/graficdoctor/soloproject-my-learning-journal)
+- Live Site URL: [Netlify](https://verdant-scone-0c4857.netlify.app/)
 
 ## My process
 
