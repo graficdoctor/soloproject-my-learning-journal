@@ -1,4 +1,4 @@
-# Scrimba - Solo Project: Learning Journal solution
+# Scrimba - Solo Project: Learning Journal 
 
 This is a solution to the [Solo Project: Learning Journal on Scrimba](https://scrimba.com/learn/frontend).
 
